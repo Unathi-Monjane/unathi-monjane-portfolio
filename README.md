@@ -78,7 +78,7 @@ Here are the certifications I’ve earned:
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/unathi-monjane-portfolio.git
+   git clone https://github.com/Unathi-Monjane/unathi-monjane-portfolio.git
 Navigate into the folder:
 
 
@@ -91,4 +91,5 @@ This project is open source and available under the MIT License.
 Thank you for visiting my portfolio!
 I’m actively seeking entry-level roles, internships, or learnerships in Software Development, AI, or Cybersecurity.
 Let’s build the future together! 🚀
+
 
