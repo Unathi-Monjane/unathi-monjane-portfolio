@@ -20,7 +20,7 @@ Welcome to my personal portfolio! This website showcases my skills, projects, ce
 
 ## 🖥️ Live Demo
 
-[View Portfolio Live](https://yourusername.github.io/unathi-monjane-portfolio)  
+[View Portfolio Live](https://Unathi-Monjane.github.io/unathi-monjane-portfolio)  
 
 ---
 
@@ -91,5 +91,6 @@ This project is open source and available under the MIT License.
 Thank you for visiting my portfolio!
 I’m actively seeking entry-level roles, internships, or learnerships in Software Development, AI, or Cybersecurity.
 Let’s build the future together! 🚀
+
 
 
