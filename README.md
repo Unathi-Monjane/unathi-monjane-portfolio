@@ -4,6 +4,12 @@ Welcome to my personal portfolio! This website showcases my skills, projects, ce
 
 ---
 
+## 💡 About CodeCraft Africa
+
+I’m also the co-founder of **[CodeCraft Africa](https://unathi-monjane.github.io/codecraft-africa-portfolio)**, a company dedicated to building modern websites and digital solutions for businesses across Africa. Our goal is to help businesses, schools, and organizations create responsive, user-friendly, and scalable digital platforms that drive results.
+
+---
+
 ## 🌟 Features
 
 - **Hero Section:** Introduction with profile image and call-to-action button.  
@@ -81,7 +87,9 @@ Here are the certifications I’ve earned:
    git clone https://github.com/Unathi-Monjane/unathi-monjane-portfolio.git
 Navigate into the folder:
 
-
+bash
+Copy
+Edit
 cd unathi-monjane-portfolio
 Open index.html in your browser.
 
@@ -91,6 +99,7 @@ This project is open source and available under the MIT License.
 Thank you for visiting my portfolio!
 I’m actively seeking entry-level roles, internships, or learnerships in Software Development, AI, or Cybersecurity.
 Let’s build the future together! 🚀
+
 
 
 
